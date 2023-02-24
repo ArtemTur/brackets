@@ -18,7 +18,3 @@ let another = str;
     };
     return true;
   }
-  
-  
- 
-
